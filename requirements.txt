@@ -1,4 +1,2 @@
-import telebot
-
-TOKEN = "8929664635:AAFXrZ6LQuRClekfBl3xM6H8B6v6YoNtpdk"
-bot = telebot.TeleBot(TOKEN)
+pyTelegramBotAPI
+flask

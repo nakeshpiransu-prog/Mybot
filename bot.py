@@ -107,7 +107,7 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # यहाँ अपना बोट टोकन (Bot Token) डालें
-    TOKEN = "8929664635:AAFXrZ6LQuRClekfBI3xM6H8B6v6YoNtpdk"
+    TOKEN = "8929664635:AAFmYrJ8GTknw9sIVp8rOIK2lXaW4TY_aSg"
     
     app = ApplicationBuilder().token(TOKEN).build()
     
